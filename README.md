@@ -1,5 +1,6 @@
 
-<h1 align="center">School_Timetable_TelegramBot</h1> 
+<h1 align="center">School_Timetable_TelegramBot</h1>
+<i><small>бот написан на aiogram</small></i><br><br>
 <a>Бот отправляет:</a>
 <ul>
  <li>Расписание уроков(на сегодня, завтра)</li>
